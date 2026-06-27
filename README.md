@@ -27,7 +27,7 @@
 }
 ```
 
-- Passionate **MERN & .NET Developer** with **2+ years** of experience
+- Passionate **MERN & .NET Developer** with **4+ years** of experience
 - Specialized in **scalable, high-performance** web applications
 - Expert in both **MERN stack** and **Microsoft .NET ecosystem**
 - Building with **React, Angular, Node.js, ASP.NET Core**
@@ -108,17 +108,6 @@
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat-square&logo=visualstudio&logoColor=white)
-
----
-
-## Featured Projects
-
-| # | Project | Tech | Link |
-|:-:|---------|------|:----:|
-| 01 | **MHI Transport** — Truck dispatch & freight brokerage platform | React, SCSS | [![Visit](https://img.shields.io/badge/Visit-00f7ff?style=flat-square&logo=github&logoColor=black)](https://github.com/qasimmirza96/MHI-transport) |
-| 02 | **Admin Dashboard Boilerplate** — Reusable React admin UI | React, JS | [![Visit](https://img.shields.io/badge/Visit-00f7ff?style=flat-square&logo=github&logoColor=black)](https://github.com/qasimmirza96/admin_dashoard_boilerplate) |
-| 03 | **Supply Management Graph** — Data visualization dashboard | JavaScript | [![Visit](https://img.shields.io/badge/Visit-00f7ff?style=flat-square&logo=github&logoColor=black)](https://github.com/qasimmirza96/SupplyManagementGraph) |
-| 04 | **Practice C#** — .NET & C# learning repo | C#, .NET | [![Visit](https://img.shields.io/badge/Visit-00f7ff?style=flat-square&logo=github&logoColor=black)](https://github.com/qasimmirza96/practiceC-) |
 
 ---
 
