@@ -3,7 +3,7 @@
           
 # Hi 👋, I'm Qasim Mirza                     
                        
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;.NET+Core+Developer;React+%26+Angular+Developer;Building+Scalable+Web+Apps+%F0%9F%9A%80" />                 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;.NET+Core+Developer;React+%26+Angular+Developer;Building+Scalable+Web+Applications" />                 
                                           
 <br/>    
  
